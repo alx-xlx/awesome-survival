@@ -21,6 +21,8 @@ https://www.ourpreps.com/downloads/survivor-library-part-1-march-2020-torrent/
 https://www.ourpreps.com/downloads/pole-shift-survival-march-2020-torrent/
  -->
 
+[Strategic Intelligence Network](https://hackgence.com/d/124-sin-strategic-intelligence-network) - SIN provides intelligence, resources and tools to be prepared and to respond to crisis situations anywhere you are in the World. [index](https://sin.hackgence-com.workers.dev/0:/index-sin.html) [Original Mirror](https://gooddebate.org/sin/mirror/library/), [Mirror 1](https://sin.hackgence-com.workers.dev/), [Mirror 2 Google Drive](https://drive.google.com/drive/u/0/folders/1oYYl0VtLio39Q4rmbDEVI2iNNejgbbLv)
+
 [CD3WD](https://archive.org/details/2012_cdw3d_dvd_set) - CD3WD is a collection of documents meant to be a 'start over', homesteading, survivalist, or basic knowledge collection of documents, assembled to allow readers to rebuild civilization. [Magnet](magnet:?xt=urn:btih:716B201644F2B3AB64DCE59D8B0399457CEA3E19&dn=2012_cdw3d_dvd_set&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&ws=https%3a%2f%2farchive.org%2fdownload%2f&ws=http%3a%2f%2fia600308.us.archive.org%2f16%2fitems%2f&ws=http%3a%2f%2fia800308.us.archive.org%2f16%2fitems%2f)
 
 <!-- 
