@@ -93,19 +93,34 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 # Blogs
 
+[wiki.collapsenetwork.org](https://wiki.collapsenetwork.org/) - a practical wiki for navigating collapse
+
 [rtl-sdr.com](https://www.rtl-sdr.com/) - GPS Decoding & Plotting, Weather Satellite Images
+
+[Fluidic Ice](https://fluidicice.com/home)
 
 # Boards
 
 [forum.sdr-radio.com](https://forum.sdr-radio.com/)
 
+[r/preppers](https://www.reddit.com/r/preppers/)
+
 [r/PrepperFileShare](https://www.reddit.com/r/PrepperFileShare/) - A place for preppers to share PDFs, Docs, and any other useful information.
+
+[r/Survival](https://www.reddit.com/r/Survival/)
+
+[r/Survivalist](https://www.reddit.com/r/Survivalist/)
+
+[r/PostCollapse](https://www.reddit.com/r/PostCollapse/)
 
 [r/DataHoarder](https://www.reddit.com/r/DataHoarder/)
 
 [r/datacurator](https://www.reddit.com/r/datacurator/)
 
 [r/Archiveteam](https://www.reddit.com/r/Archiveteam/)
+
+[r/CollapseNetwork](https://www.reddit.com/r/CollapseNetwork/)
+
 
 # YT Channels
 
