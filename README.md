@@ -73,6 +73,8 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 [Library Genesis](http://gen.lib.rus.ec/)
 
+[ZetaTalk11](http://www.zetatalk11.com/docs/) - it leads you through the vast amount of information being relayed by the Zetas
+
 ## Deep Web
 
 ---------------------------------------
