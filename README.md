@@ -101,7 +101,9 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 [r/DataHoarder](https://www.reddit.com/r/DataHoarder/)
 
+[r/datacurator](https://www.reddit.com/r/datacurator/)
 
+[r/Archiveteam](https://www.reddit.com/r/Archiveteam/)
 
 # YT Channels
 
