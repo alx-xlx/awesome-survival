@@ -1,7 +1,24 @@
-![](awesome-survival.png)
+![]()
+﻿<div align="center">
+<h1>awesome-survival</h1>
+a list of awesome survival/survivors books/guides
+<img src="awesome-survival.png" alt="awesome-survival" height="">
 
-# awesome-survival
- a list of awesome survival/survivors books/guides
+</div>
+<div align="center">
+
+<img alt="awesome-survival-license" src="https://img.shields.io/badge/Open_source-MIT-red.svg?logo=git&logoColor=green"/>
+<img src="https://img.shields.io/github/last-commit/alx-xlx/awesome-survival.svg?logo=Sublime+Text&logoColor=green&label=Active"/>
+<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/alx-xlx/awesome-survival">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alx-xlx/awesome-survival">
+<img alt="awesome-survival-softwareheritage.org" src="https://archive.softwareheritage.org/badge/origin/https://github.com/Unipisa/CMM/"/>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alx-xlx/awesome-survival">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falx-xlx%2Fawesome-survival&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/>
+
+
+</div>
+
+
 
 # Sources
 
