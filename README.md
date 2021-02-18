@@ -149,6 +149,33 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 [Northmen](https://www.youtube.com/channel/UCcaVClI50rGZmbYMhoSSDGA)
 
+# Websites
+
+[survivalistprep.com](https://survivalistprep.com/)
+
+[realsurvivalist.com](http://realsurvivalist.com/)
+
+[bugoutbagacademy.com](https://bugoutbagacademy.com/)
+
+[bestsurvival.org](https://bestsurvival.org/)
+
+[prepperwebsite.com](https://www.prepperwebsite.com/)
+
+[survivopedia.com](https://www.survivopedia.com/)
+
+[askaprepper.com](https://www.askaprepper.com/)
+
+[urbansurvivalsite.com](https://urbansurvivalsite.com/)
+
+[survivalsullivan.com](https://www.survivalsullivan.com/)
+
+[topprepperwebsites.com](https://topprepperwebsites.com/)
+
+[survivalpulse.com](https://survivalpulse.com/)
+
+[survivaltop50.com](https://www.survivaltop50.com/)
+
+[prepperwebsite.net](https://www.prepperwebsite.net/)
 
 ## Disclaimer
 ```
