@@ -15,8 +15,9 @@ a list of awesome survival/survivors books/guides
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alx-xlx/awesome-survival">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falx-xlx%2Fawesome-survival&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/>
 
-<h2>NOTE : Magnet Links are hidden in README.md</h2>
+<h1>NOTE : Magnet Links are hidden in [README.md]</h1>
 
+[Reveal Download Magnet Links](https://github.com/alx-xlx/awesome-survival/edit/main/README.md)
 
 </div>
 
