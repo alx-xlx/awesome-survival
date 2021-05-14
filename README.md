@@ -85,7 +85,7 @@ https://pirateproxy.live/torrent/6887249/Appropriate_Technology_Library_-1050_eB
 https://villageearth.org/appropriate-technology/appropriate-technology-library
  -->
 
-[Great Science Texxtbooks Library]() - Great Science Textbooks DVD Library including all updates as of January 2013 [Magnet Collection](magnet:?xt=urn:btih:C2830A8A4D5B450309BA4CC8283BFA729818507F&dn=GreatScienceTextbooksDvdLibraryTorrentsfullCollection&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&ws=https%3a%2f%2farchive.org%2fdownload%2f&ws=http%3a%2f%2fia601607.us.archive.org%2f4%2fitems%2f&ws=http%3a%2f%2fia801607.us.archive.org%2f4%2fitems%2f)
+[Great Science Textbooks Library]() - Great Science Textbooks DVD Library including all updates as of January 2013 [Magnet Collection](magnet:?xt=urn:btih:C2830A8A4D5B450309BA4CC8283BFA729818507F&dn=GreatScienceTextbooksDvdLibraryTorrentsfullCollection&tr=http%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=http%3a%2f%2fbt2.archive.org%3a6969%2fannounce&ws=https%3a%2f%2farchive.org%2fdownload%2f&ws=http%3a%2f%2fia601607.us.archive.org%2f4%2fitems%2f&ws=http%3a%2f%2fia801607.us.archive.org%2f4%2fitems%2f)
 
 <!-- 
 https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollection
@@ -94,7 +94,11 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 [Library Genesis](http://gen.lib.rus.ec/)
 
+[archive.org/details/military-manuals](https://archive.org/details/military-manuals) - US Military Manual Collection
+
 [ZetaTalk11](http://www.zetatalk11.com/docs/) - it leads you through the vast amount of information being relayed by the Zetas
+
+[planet.openstreetmap.org](https://planet.openstreetmap.org/) - complete copies of the OpenStreetMap.org database
 
 ## Deep Web
 
@@ -176,6 +180,10 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 [survivaltop50.com](https://www.survivaltop50.com/)
 
 [prepperwebsite.net](https://www.prepperwebsite.net/)
+
+[liberatedmanuals.com](https://www.liberatedmanuals.com/) - Free Military Manuals
+
+[fas.org](https://fas.org/irp/doddir/army/) - Army Intelligence and Security Doctrine
 
 ## Disclaimer
 ```
