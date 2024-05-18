@@ -5,7 +5,7 @@ A list of awesome survival/survivors books/guides
 
 **NOTE: Magnet Links are hidden in README.md**
 
-[Click here to reveal Download Magnet Links](https://github.com/wassname/awesome-survival/blob/main/README.md?plain=1)
+[Click here to reveal Download Magnet Links](https://github.com/ShouldHaveSeenThat/awesome-survival/blob/main/README.md?plain=1)
 
 ## Sources
 
