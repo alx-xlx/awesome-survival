@@ -19,7 +19,7 @@ a list of awesome survival/survivors books/guides
 
 [Reveal Download Magnet Links](https://github.com/alx-xlx/awesome-survival/edit/main/README.md)
 
-</div>
+</div>>
 
 
 
