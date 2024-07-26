@@ -99,11 +99,23 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 [archive.org/details/military-manuals](https://archive.org/details/military-manuals) - US Military Manual Collection
 
-[ZetaTalk11](http://www.zetatalk11.com/docs/) - it leads you through the vast amount of information being relayed by the Zetas
+[ZetaTalk](http://www.zetatalk11.com/docs/), (Mirrors - [Zetatalk3](http://www.zetatalk3.com/docs/), ) - it leads you through the vast amount of information being relayed by the Zetas - [Magnet](magnet:?xt=urn:btih:dbf143d8502f0a361f3e78843ca069b8e2062b54&dn=Prepper_Ark&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce)
+<!-- Someone compiled the zetatalk11 file and made a torrent - https://www.reddit.com/r/PrepperFileShare/comments/mfryh3/is_there_a_torrent_link_for_the_whole_survivor/ -->
+
+
+[The Preparedness Encyclopedia](https://fluidicice.com/tpe) - compilation of every preparedness resource - [TPE](https://fluidicice.com/downloads/tpe/TPE%2010.02.pdf), [TPE - Water](https://fluidicice.com/downloads/tpe/TPE%2010.00%20-%20Water%20Extract.pdf)
+
+
 
 [planet.openstreetmap.org](https://planet.openstreetmap.org/) - complete copies of the OpenStreetMap.org database
 
-## Deep Web
+
+
+## Organizations
+
+[Kiwix](https://kiwix.org/en/) - Internet to all by Kiwix. [Kiwix Library](https://library.kiwix.org/#lang=eng), [Applications Downloads](https://kiwix.org/en/applications/)
+
+[Anna’s Archive](https://annas-archive.org/) - The largest truly open library in human history. Collection of Sci-Hub, LibGen, Z-Lib, DuXiu. (meant for long-term preservation) - [Torrents](https://annas-archive.org/torrents#aa_derived_mirror_metadata), [Archival Project](https://software.annas-archive.se/AnnaArchivist/annas-archive)
 
 ---------------------------------------
 
