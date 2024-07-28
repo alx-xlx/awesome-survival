@@ -113,11 +113,36 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 ## Organizations
 
-[Kiwix](https://kiwix.org/en/) - Internet to all by Kiwix. [Kiwix Library](https://library.kiwix.org/#lang=eng), [Applications Downloads](https://kiwix.org/en/applications/)
+[Kiwix](https://kiwix.org/en/) - Internet to all by Kiwix. Compilation of Wikipedia, audiobooks, wikimedia and many more[Kiwix Library](https://library.kiwix.org/#lang=eng), [Applications Downloads](https://kiwix.org/en/applications/)
 
 [Anna’s Archive](https://annas-archive.org/) - The largest truly open library in human history. Collection of Sci-Hub, LibGen, Z-Lib, DuXiu. (meant for long-term preservation) - [Torrents](https://annas-archive.org/torrents#aa_derived_mirror_metadata), [Archival Project](https://software.annas-archive.se/AnnaArchivist/annas-archive)
 
----------------------------------------
+
+# Communication Systems
+
+[Ham Radio](https://hamstudy.org/) - Radio service that enables you to communicate all around the world and even outer space with your own equipment.
+
+[LoRaWAN](https://lora-alliance.org/) - LoRaWAN, an open standard, enables IoT devices to communicate seamlessly, free of any proprietary technology. [thethingsnetwork](https://www.thethingsnetwork.org/docs/lorawan/)
+
+[EME Wikipedia](https://en.wikipedia.org/wiki/Earth%E2%80%93Moon%E2%80%93Earth_communication) - Earth–Moon–Earth communication (Moon Bouncing), long range communication via the Moon. [EME 17403km World Record](https://www.youtube.com/watch?v=XfReoQOWqUo), [Docs PDF](https://publications.lib.chalmers.se/records/fulltext/217884/217884.pdf)
+
+[UISP](https://uisp.com/uisp-overview) - Create your own wireless infrastructure ranging from 1km to 300+km. [Wireless Long Range](https://uisp.com/eu/wireless)
+
+[Meshtastic](https://meshtastic.org/) - Opensource, Long Range, off-grid, decentralized, mesh network built to run on affordable, low-power devices. [Docs](https://meshtastic.org/docs/introduction/), [Downloads](https://meshtastic.org/downloads/)
+
+[KrakenSDR](https://www.rtl-sdr.com/krakensdr-kraken-pro-cloud-mapper-and-other-updates/) - Radio Fox Hunting. Locating emergency beacons for search-and-rescue.  [Buy KrakenSDR](https://www.crowdsupply.com/krakenrf/krakensdr)
+
+<!-- --------------------------------------- -->
+
+# Energy
+
+`Solar Power` - Minimum 10kW of Solar Generation. Investing in low power devices.
+
+`Solar Cooker` - Minimum 5 of variying size and types.
+
+`Water` - Harvest water from air. [rainmakerww.com](https://rainmakerww.com/technology-air-to-water/), [airowater.com](https://www.airowater.com/)
+
+
 
 # Applications
 
