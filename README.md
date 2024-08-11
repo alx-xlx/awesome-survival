@@ -106,9 +106,12 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 [The Preparedness Encyclopedia](https://fluidicice.com/tpe) - compilation of every preparedness resource - [TPE](https://fluidicice.com/downloads/tpe/TPE%2010.02.pdf), [TPE - Water](https://fluidicice.com/downloads/tpe/TPE%2010.00%20-%20Water%20Extract.pdf)
 
 
-
 [planet.openstreetmap.org](https://planet.openstreetmap.org/) - complete copies of the OpenStreetMap.org database
 
+[Prepper E-Library](http://backpackhack.prepare-now.org/files/) - by BackPackHack's [Source YT](https://www.youtube.com/watch?v=ccOOgh2Uqro) `username:backpackhack` `password:PrepperForums`
+
+[All-Urban-Prepper](https://www.mediafire.com/file/47q7wls7nmdajsy/All-Urban-Prepper-PDFs-050521.zip/file) - PDFs by TheUrbanPrepper
+ [Source YT](https://www.youtube.com/watch?v=ghjUfxp2yJM)
 
 
 ## Organizations
@@ -116,6 +119,7 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 [Kiwix](https://kiwix.org/en/) - Internet to all by Kiwix. Compilation of Wikipedia, audiobooks, wikimedia and many more[Kiwix Library](https://library.kiwix.org/#lang=eng), [Applications Downloads](https://kiwix.org/en/applications/)
 
 [Anna’s Archive](https://annas-archive.org/) - The largest truly open library in human history. Collection of Sci-Hub, LibGen, Z-Lib, DuXiu. (meant for long-term preservation) - [Torrents](https://annas-archive.org/torrents#aa_derived_mirror_metadata), [Archival Project](https://software.annas-archive.se/AnnaArchivist/annas-archive)
+
 
 
 # Communication Systems
@@ -130,7 +134,7 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 [Meshtastic](https://meshtastic.org/) - Opensource, Long Range, off-grid, decentralized, mesh network built to run on affordable, low-power devices. [Docs](https://meshtastic.org/docs/introduction/), [Downloads](https://meshtastic.org/downloads/)
 
-[KrakenSDR](https://www.rtl-sdr.com/krakensdr-kraken-pro-cloud-mapper-and-other-updates/) - Radio Fox Hunting. Locating emergency beacons for search-and-rescue.  [Buy KrakenSDR](https://www.crowdsupply.com/krakenrf/krakensdr)
+[KrakenSDR](https://www.rtl-sdr.com/krakensdr-kraken-pro-cloud-mapper-and-other-updates/) - Radio Fox Hunting. Locating emergency beacons for search-and-rescue. [Buy KrakenSDR](https://www.crowdsupply.com/krakenrf/krakensdr), [The Comms Channel (YT)](https://www.youtube.com/watch?v=3ugAT5BLBc0)
 
 <!-- --------------------------------------- -->
 
@@ -148,7 +152,9 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 ## Android
 
-[Survival Manual](https://f-droid.org/packages/org.ligi.survivalmanual/) - Survival Manual (F-DROID)
+[Survival Manual](https://survivalmanual.github.io/) - Survival Manual [F-Droid](https://f-droid.org/packages/org.ligi.survivalmanual/), [Source](https://github.com/ligi/SurvivalManual)
+
+[PrApp](https://play.google.com/store/apps/details?id=de.as.apps.prapp)
 
 ## Windows/Linux
 
@@ -193,7 +199,15 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 [Northmen](https://www.youtube.com/channel/UCcaVClI50rGZmbYMhoSSDGA)
 
+[BackPackHack](https://www.youtube.com/@BackPackHack)
+
+# Telegram Channels
+
+[Offgrid Download](https://t.me/offgriddownload) - Offgrid Living,  Homesteading, Hunting,  Prepping, Survivalism, and Defense.
+
 # Websites
+
+[cityprepping.com](https://cityprepping.com/blog/)
 
 [survivalistprep.com](https://survivalistprep.com/)
 
@@ -224,6 +238,8 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 [liberatedmanuals.com](https://www.liberatedmanuals.com/) - Free Military Manuals
 
 [fas.org](https://fas.org/irp/doddir/army/) - Army Intelligence and Security Doctrine
+
+[ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) - 
 
 ## Disclaimer
 ```
