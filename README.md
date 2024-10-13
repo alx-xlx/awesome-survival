@@ -342,11 +342,52 @@ A list of awesome survival/survivors books/guides
 - archive.org/details/military-manuals - US Military Manual Collection | [Website](https://archive.org/details/military-manuals)
 - index-of.es - Software Technology Tools, Tutorials, Guides etc | [Website](http://index-of.es/)
 - protesttips.carrd.co - Protest Tips and Tactics from Hong Kong to the World | [Website](https://protesttips.carrd.co/)
-- ZetaTalk11 - it leads you through the vast amount of information being relayed by the Zetas | [Website](http://www.zetatalk11.com/docs/)
+
+- [ZetaTalk](http://www.zetatalk11.com/docs/), (Mirrors - [Zetatalk3](http://www.zetatalk3.com/docs/), ) - it leads you through the vast amount of information being relayed by the Zetas - [Magnet](magnet:?xt=urn:btih:dbf143d8502f0a361f3e78843ca069b8e2062b54&dn=Prepper_Ark&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce)
+<!-- Someone compiled the zetatalk11 file and made a torrent - https://www.reddit.com/r/PrepperFileShare/comments/mfryh3/is_there_a_torrent_link_for_the_whole_survivor/ -->
+
+
+- [The Preparedness Encyclopedia](https://fluidicice.com/tpe) - compilation of every preparedness resource - [TPE](https://fluidicice.com/downloads/tpe/TPE%2010.02.pdf), [TPE - Water](https://fluidicice.com/downloads/tpe/TPE%2010.00%20-%20Water%20Extract.pdf)
 
 - links
   - https://old.reddit.com/r/PostCollapse/comments/11hy0w/torrents_to_look_at/
   - https://old.reddit.com/r/PrepperFileShare/search?q=torrent&restrict_sr=on&sort=relevance&t=all
+
+[Prepper E-Library](http://backpackhack.prepare-now.org/files/) - by BackPackHack's [Source YT](https://www.youtube.com/watch?v=ccOOgh2Uqro) `username:backpackhack` `password:PrepperForums`
+
+[All-Urban-Prepper](https://www.mediafire.com/file/47q7wls7nmdajsy/All-Urban-Prepper-PDFs-050521.zip/file) - PDFs by TheUrbanPrepper
+ [Source YT](https://www.youtube.com/watch?v=ghjUfxp2yJM)
+
+
+## Organizations
+
+[Kiwix](https://kiwix.org/en/) - Internet to all by Kiwix. Compilation of Wikipedia, audiobooks, wikimedia and many more[Kiwix Library](https://library.kiwix.org/#lang=eng), [Applications Downloads](https://kiwix.org/en/applications/)
+
+[Anna’s Archive](https://annas-archive.org/) - The largest truly open library in human history. Collection of Sci-Hub, LibGen, Z-Lib, DuXiu. (meant for long-term preservation) - [Torrents](https://annas-archive.org/torrents#aa_derived_mirror_metadata), [Archival Project](https://software.annas-archive.se/AnnaArchivist/annas-archive)
+
+
+
+# Communication Systems
+
+[Ham Radio](https://hamstudy.org/) - Radio service that enables you to communicate all around the world and even outer space with your own equipment.
+
+[LoRaWAN](https://lora-alliance.org/) - LoRaWAN, an open standard, enables IoT devices to communicate seamlessly, free of any proprietary technology. [thethingsnetwork](https://www.thethingsnetwork.org/docs/lorawan/)
+
+[EME Wikipedia](https://en.wikipedia.org/wiki/Earth%E2%80%93Moon%E2%80%93Earth_communication) - Earth–Moon–Earth communication (Moon Bouncing), long range communication via the Moon. [EME 17403km World Record](https://www.youtube.com/watch?v=XfReoQOWqUo), [Docs PDF](https://publications.lib.chalmers.se/records/fulltext/217884/217884.pdf)
+
+[UISP](https://uisp.com/uisp-overview) - Create your own wireless infrastructure ranging from 1km to 300+km. [Wireless Long Range](https://uisp.com/eu/wireless)
+
+[Meshtastic](https://meshtastic.org/) - Opensource, Long Range, off-grid, decentralized, mesh network built to run on affordable, low-power devices. [Docs](https://meshtastic.org/docs/introduction/), [Downloads](https://meshtastic.org/downloads/)
+
+[KrakenSDR](https://www.rtl-sdr.com/krakensdr-kraken-pro-cloud-mapper-and-other-updates/) - Radio Fox Hunting. Locating emergency beacons for search-and-rescue. [Buy KrakenSDR](https://www.crowdsupply.com/krakenrf/krakensdr), [The Comms Channel (YT)](https://www.youtube.com/watch?v=3ugAT5BLBc0)
+
+# Energy
+
+`Solar Power` - Minimum 10kW of Solar Generation. Investing in low power devices.
+
+`Solar Cooker` - Minimum 5 of variying size and types.
+
+`Water` - Harvest water from air. [rainmakerww.com](https://rainmakerww.com/technology-air-to-water/), [airowater.com](https://www.airowater.com/)
 
 ### Deep Web
 
@@ -356,7 +397,9 @@ A list of awesome survival/survivors books/guides
 
 ### Android
 
-- **Survival Manual** - Survival Manual (F-DROID) | [F-DROID](https://f-droid.org/packages/org.ligi.survivalmanual/)
+- **[Survival Manual](https://survivalmanual.github.io/)** - Survival Manual (F-DROID) | [F-DROID](https://f-droid.org/packages/org.ligi.survivalmanual/) | [Source](https://github.com/ligi/SurvivalManual)
+
+- [PrApp](https://play.google.com/store/apps/details?id=de.as.apps.prapp)
 
 ### Windows/Linux
 
@@ -384,10 +427,20 @@ A list of awesome survival/survivors books/guides
 # YT Channels
 
 - [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
+
+- [Northmen](https://www.youtube.com/channel/UCcaVClI50rGZmbYMhoSSDGA)
+
+- [BackPackHack](https://www.youtube.com/@BackPackHack)
+
+# Telegram Channels
+
+- [Offgrid Download](https://t.me/offgriddownload) - Offgrid Living,  Homesteading, Hunting,  Prepping, Survivalism, and Defense.
+- [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
 - [Northmen](https://www.youtube.com/channel/UCcaVClI50rGZmbYMhoSSDGA)
 
 # Websites
 
+- [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) 
 - [survivalistprep.com](https://survivalistprep.com/)
 - [realsurvivalist.com](http://realsurvivalist.com/)
 - [bugoutbagacademy.com](https://bugoutbagacademy.com/)
@@ -410,24 +463,6 @@ A list of awesome survival/survivors books/guides
 
 
 SCRATCH
-
-- **Appropriate Technology Library** - The most comprehensive appropriate technology and sustainable living resource in the world! | 
-<details><summary>🧲 1</summary>
-
-~~~
-magnet:?xt=urn:btih:927CEF33C1E320C669ED7913CC1A63736DA530B9&dn=Appropriate+Technology+Library+-1050+eBooks
-~~~
-</details>
-
-, 
-<details><summary>🧲 2</summary>
-
-~~~
-magnet:?xt=urn:btih:927cef33c1e320c669ed7913cc1a63736da530b9&dn=Appropriate+Technology+Library+-1050+eBooks
-~~~
-</details>
-
-
 
 
 - **Appropriate Technology Library** - The most comprehensive appropriate technology and sustainable living resource in the world! | 
