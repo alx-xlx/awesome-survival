@@ -132,9 +132,17 @@ https://archive.org/details/GreatScienceTextbooksDvdLibraryTorrentsfullCollectio
 
 [UISP](https://uisp.com/uisp-overview) - Create your own wireless infrastructure ranging from 1km to 300+km. [Wireless Long Range](https://uisp.com/eu/wireless)
 
+[KrakenSDR](https://www.rtl-sdr.com/krakensdr-kraken-pro-cloud-mapper-and-other-updates/) - Radio Fox Hunting. Locating emergency beacons for search-and-rescue. [Buy KrakenSDR](https://www.crowdsupply.com/krakenrf/krakensdr), [The Comms Channel (YT)](https://www.youtube.com/watch?v=3ugAT5BLBc0)
+
 [Meshtastic](https://meshtastic.org/) - Opensource, Long Range, off-grid, decentralized, mesh network built to run on affordable, low-power devices. [Docs](https://meshtastic.org/docs/introduction/), [Downloads](https://meshtastic.org/downloads/)
 
-[KrakenSDR](https://www.rtl-sdr.com/krakensdr-kraken-pro-cloud-mapper-and-other-updates/) - Radio Fox Hunting. Locating emergency beacons for search-and-rescue. [Buy KrakenSDR](https://www.crowdsupply.com/krakenrf/krakensdr), [The Comms Channel (YT)](https://www.youtube.com/watch?v=3ugAT5BLBc0)
+[ATAK](https://www.civtak.org/) - Android Team Awareness Kit, baseline software provided by US Government at no cost. [civtak.org](https://www.civtak.org/), [tak.gov](https://tak.gov/), 
+
+[Reticulum](https://github.com/markqvist/Reticulum) - The vision is to allow anyone to operate their own sovereign communication networks. [reticulum.network](https://reticulum.network/)
+
+[Beartooth](https://beartooth.com/products/beartooth-mk-ii) - ATAK Mesh Networking Radios
+
+
 
 <!-- --------------------------------------- -->
 
